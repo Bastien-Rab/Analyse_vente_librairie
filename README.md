@@ -46,3 +46,58 @@ Les analyses se basent sur des données internes de la librairie :
 ---
 
 Ce projet m’a permis de renforcer mes compétences en analyse statistique, visualisation de données et communication des résultats, tout en apportant des solutions concrètes aux défis commerciaux d’une librairie en ligne.
+
+
+---
+
+---
+
+
+# 📚 Performance Analysis of an Online Bookstore
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to analyze the sales and customer behaviors of **Lapage**, an online bookstore that launched its e-commerce platform two years ago. The goal of this analysis was to provide insights to improve the company’s commercial and marketing strategy.
+
+---
+
+## 📚 Project Context
+**Lapage**, a large generalist bookstore with a physical network and an online presence, sought to evaluate its performance after two years of e-commerce activity. In collaboration with the Marketing department, I conducted a comprehensive analysis of sales indicators, customer behaviors, and the strengths and weaknesses of the current strategy.
+
+---
+
+## 🎯 Project Objectives
+- **Analyze sales indicators**: Explore trends and sales performance over two years.  
+- **Study customer behaviors**: Identify correlations between demographic data and purchasing behaviors.  
+- **Document results**: Provide key insights and recommendations through visualizations and statistical analyses.
+
+---
+
+## 📦 Deliverables
+1. **Data Processing Notebook**: Cleaning and preparation of data from the source files.  
+2. **Sales and Customer Behavior Analysis Notebook**: Detailed study of sales indicators, trends, and correlations between customer data and purchasing behaviors.  
+3. **Presentation**: Summary of results, including key figures, KPIs, graphs, and recommendations.
+
+---
+
+## ✨ Skills Developed
+- Conducting bi-variate analyses to interpret data.  
+- Applying statistical tests to validate hypotheses.  
+- Analyzing time series to identify sales trends.  
+- Cleaning, structuring, and manipulating data in a Python environment.
+
+---
+
+## 📊 Data Used
+The analyses were based on internal data from the bookstore:  
+- **customers.csv**: Information about customers (age, location, etc.).  
+- **products.csv**: Catalog of available products.  
+- **transactions.csv**: Online sales history.
+
+---
+
+## 📄 Files and Results
+- **Python Notebook**: Contains data cleaning, exploratory analysis, and statistical tests.  
+- **PDF Presentation**: Key results, including KPIs, generated graphs, and recommendations.  
+
+---
+
+This project allowed me to enhance my skills in statistical analysis, data visualization, and result communication while providing actionable solutions to the commercial challenges of an online bookstore.
