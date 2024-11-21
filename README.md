@@ -18,9 +18,8 @@ Ce projet, réalisé dans le cadre de ma formation OpenClassrooms Data Analyst, 
 
 ## 📦 Livrables
 1. **Notebook de traitement des données** : Nettoyage et préparation des données issues des fichiers sources.  
-2. **Notebook d’analyse des ventes** : Étude détaillée des indicateurs de vente et des tendances clés.  
-3. **Notebook d’analyse des comportements clients** : Analyse des corrélations entre les données clients et leurs comportements d’achat.  
-4. **Présentation** : Synthèse des résultats incluant les chiffres clés, KPI, graphiques et recommandations.  
+2. **Notebook d’analyse des ventes et des comportements clients** : Étude détaillée des indicateurs de vente et des tendances clés, Analyse des corrélations entre les données clients et leurs comportements d’achat.  
+3. **Présentation** : Synthèse des résultats incluant les chiffres clés, KPI, graphiques et recommandations.  
 
 ---
 
